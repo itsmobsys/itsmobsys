@@ -3,7 +3,9 @@
 <!--  Stack: Python · JavaScript · Linux · Backend · Performance      -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" alt="header wave" />
+</div>
 
 <div align="center">
 
@@ -64,17 +66,13 @@
 
 ---
 
-<div align="center">
+<h3 align="center">Fast · Lightweight · Reliable · Maintainable · Actually useful</h3>
 
-### Fast · Lightweight · Reliable · Maintainable · Actually useful
+<h1 align="center">🧠 About Me</h1>
 
-</div>
+<p align="center">I'm a developer who enjoys building <strong>real projects</strong>, solving <strong>weird problems</strong>, <strong>optimizing things that probably didn't need optimizing</strong>, and then finding out <strong>why everything broke</strong>.</p>
 
-# 🧠 About Me
-
-I'm a developer who enjoys building **real projects**, solving **weird problems**, **optimizing things that probably didn't need optimizing**, and then finding out **why everything broke**.
-
-I like working on software where the interesting part isn't just the UI. The stuff underneath matters too — caching, APIs, concurrency, resource usage, failure modes.
+<p align="center">I like working on software where the interesting part isn't just the UI. The stuff underneath matters too — caching, APIs, concurrency, resource usage, failure modes.</p>
 
 <div align="center">
 
@@ -111,11 +109,11 @@ I like working on software where the interesting part isn't just the UI. The stu
 └───────────────────────────────────────────────────┘
 ```
 
-> I don't particularly care about writing the **most** code. I'd rather write less code that does less unnecessary work.
+<p align="center"><em>I don't particularly care about writing the <strong>most</strong> code. I'd rather write less code that does less unnecessary work.</em></p>
 
 ---
 
-# 🚧 What I'm Focused On
+<h1 align="center">🚧 What I'm Focused On</h1>
 
 <div align="center">
 
@@ -123,24 +121,29 @@ I like working on software where the interesting part isn't just the UI. The stu
 <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-2ea44f?style=for-the-badge" alt="Active build" />
 <img src="https://img.shields.io/badge/SCOPE-BACKEND_+_INFRA-000000?style=for-the-badge" alt="Backend plus infra" />
 
-**Backend systems that are lightweight, cached, and measured — not guessed.**
+<p><strong>Backend systems that are lightweight, cached, and measured — not guessed.</strong></p>
 
-`caching` → `APIs` → `automation` → `infra` → `performance`
+<p><code>caching</code> → <code>APIs</code> → <code>automation</code> → <code>infra</code> → <code>performance</code></p>
 
 </div>
 
-I'm most interested in the stuff underneath the UI:
+<p align="center">I'm most interested in the stuff underneath the UI:</p>
 
-| System | What I work on |
-| :--- | :--- |
-| ⚡ **Caching** | Reducing unnecessary requests |
-| 🔌 **APIs** | Connecting systems together |
-| 🤖 **Automation** | Making repetitive work disappear |
-| 🧠 **AI / LLMs** | Experimenting with useful AI workflows |
-| 🖥️ **Infrastructure** | Keeping things lightweight and reliable |
-| 📊 **Performance** | Measuring instead of guessing |
+<div align="center">
 
-### 🗺️ How I think about systems
+<table>
+<tr><th>System</th><th>What I work on</th></tr>
+<tr><td align="center">⚡ <strong>Caching</strong></td><td align="center">Reducing unnecessary requests</td></tr>
+<tr><td align="center">🔌 <strong>APIs</strong></td><td align="center">Connecting systems together</td></tr>
+<tr><td align="center">🤖 <strong>Automation</strong></td><td align="center">Making repetitive work disappear</td></tr>
+<tr><td align="center">🧠 <strong>AI / LLMs</strong></td><td align="center">Experimenting with useful AI workflows</td></tr>
+<tr><td align="center">🖥️ <strong>Infrastructure</strong></td><td align="center">Keeping things lightweight and reliable</td></tr>
+<tr><td align="center">📊 <strong>Performance</strong></td><td align="center">Measuring instead of guessing</td></tr>
+</table>
+
+</div>
+
+<h3 align="center">🗺️ How I think about systems</h3>
 
 ```mermaid
 flowchart TB
@@ -181,16 +184,20 @@ flowchart TB
 <details>
 <summary><strong>⚙️ What “infrastructure” means here</strong></summary>
 
-- Get it **correct before making it fast** — then make it cheap.
-- Caching sits in front of repeated work — if we already know the answer, don't recompute it.
-- Automation removes the repetitive glue so the system stays maintainable.
-- Measure real behavior — resource usage, failure modes, bottlenecks — instead of guessing.
+<br />
+
+<p align="center">
+Get it <strong>correct before making it fast</strong> — then make it cheap.<br />
+Caching sits in front of repeated work — if we already know the answer, don't recompute it.<br />
+Automation removes the repetitive glue so the system stays maintainable.<br />
+Measure real behavior — resource usage, failure modes, bottlenecks — instead of guessing.
+</p>
 
 </details>
 
 ---
 
-# 🎮 Featured Project
+<h1 align="center">🎮 Featured Project</h1>
 
 <div align="center">
 
@@ -199,9 +206,9 @@ flowchart TB
 <img src="https://img.shields.io/badge/CACHE-L1_+_L2-2ea44f?style=for-the-badge" alt="L1 plus L2 cache" />
 <img src="https://img.shields.io/badge/HTTP-MINIMIZED-FF6F00?style=for-the-badge" alt="HTTP minimized" />
 
-### YouTube video → game detection → cached result
+<h3>YouTube video → game detection → cached result</h3>
 
-**A lightweight Python module that identifies the game associated with a YouTube video — without throwing a giant stack of dependencies at the problem.**
+<p><strong>A lightweight Python module that identifies the game associated with a YouTube video — without throwing a giant stack of dependencies at the problem.</strong></p>
 
   <a href="https://github.com/itsmobsys/Game-sorting-for-clipwave">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-Game_Sorting-000000?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
@@ -209,24 +216,25 @@ flowchart TB
 
 </div>
 
-## Problem → Approach → Architecture → Optimization → Testing → Result
-
-| Step | Question it answers |
-| :--- | :--- |
-| **1. Problem** | How do we detect a game without a browser, without an LLM, without bloat? |
-| **2. Approach** | Validate → check memory → check disk → fetch once → extract → store |
-| **3. Architecture** | L1 memory + L2 SQLite + single-flight HTTP |
-| **4. Optimization** | Coalesce callers, bound concurrency, TTL everything |
-| **5. Testing** | Automated tests + resource measurements |
-| **6. Result** | Predictable, lightweight, graceful under failure |
+<h2 align="center">Problem → Approach → Architecture → Optimization → Testing → Result</h2>
 
 <div align="center">
 
-**`Problem ↓ Approach ↓ Architecture ↓ Optimization ↓ Testing ↓ Result`**
+<table>
+<tr><th>Step</th><th>Question it answers</th></tr>
+<tr><td align="center"><strong>1. Problem</strong></td><td align="center">How do we detect a game without a browser, without an LLM, without bloat?</td></tr>
+<tr><td align="center"><strong>2. Approach</strong></td><td align="center">Validate → check memory → check disk → fetch once → extract → store</td></tr>
+<tr><td align="center"><strong>3. Architecture</strong></td><td align="center">L1 memory + L2 SQLite + single-flight HTTP</td></tr>
+<tr><td align="center"><strong>4. Optimization</strong></td><td align="center">Coalesce callers, bound concurrency, TTL everything</td></tr>
+<tr><td align="center"><strong>5. Testing</strong></td><td align="center">Automated tests + resource measurements</td></tr>
+<tr><td align="center"><strong>6. Result</strong></td><td align="center">Predictable, lightweight, graceful under failure</td></tr>
+</table>
+
+<p><strong><code>Problem ↓ Approach ↓ Architecture ↓ Optimization ↓ Testing ↓ Result</code></strong></p>
 
 </div>
 
-### ✨ The design
+<h3 align="center">✨ The design</h3>
 
 ```mermaid
 flowchart TD
@@ -277,24 +285,24 @@ flowchart TD
 
 </details>
 
-### 🔥 Things I specifically cared about
+<h3 align="center">🔥 Things I specifically cared about</h3>
 
 <div align="center">
 
-| | | |
-| :--- | :--- | :--- |
-| ✅ No browser automation | ✅ No LLM calls | ✅ Minimal dependencies |
-| ✅ Two-level caching | ✅ SQLite persistence | ✅ Request coalescing |
-| ✅ Bounded concurrency | ✅ TTL-based expiration | ✅ Graceful failures |
-| ✅ Automated tests | ✅ Resource measurements | ✅ Predictable memory usage |
+<table>
+<tr><td align="center">✅ No browser automation</td><td align="center">✅ No LLM calls</td><td align="center">✅ Minimal dependencies</td></tr>
+<tr><td align="center">✅ Two-level caching</td><td align="center">✅ SQLite persistence</td><td align="center">✅ Request coalescing</td></tr>
+<tr><td align="center">✅ Bounded concurrency</td><td align="center">✅ TTL-based expiration</td><td align="center">✅ Graceful failures</td></tr>
+<tr><td align="center">✅ Automated tests</td><td align="center">✅ Resource measurements</td><td align="center">✅ Predictable memory usage</td></tr>
+</table>
 
 </div>
 
-### 🧪 The interesting part — request coalescing
+<h3 align="center">🧪 The interesting part — request coalescing</h3>
 
-When multiple callers ask for the **same video simultaneously**, they shouldn't all independently hit YouTube.
+<p align="center">When multiple callers ask for the <strong>same video simultaneously</strong>, they shouldn't all independently hit YouTube.</p>
 
-Instead:
+<p align="center">Instead:</p>
 
 ```text
 Caller 1 ─┐
@@ -307,18 +315,22 @@ Caller 5 ─┘
              Shared result
 ```
 
-That's the sort of optimization I enjoy finding — **one request does the work, everyone shares the result, the cache makes the next call free.**
+<p align="center">That's the sort of optimization I enjoy finding — <strong>one request does the work, everyone shares the result, the cache makes the next call free.</strong></p>
 
 <details>
 <summary><strong>🔬 Engineering decisions (expand)</strong></summary>
 
-- **No browser:** launching a browser for something solvable with one HTTP request is waste.
-- **No LLM:** classification here doesn't need inference — it needs parsing + caching.
-- **L1 + L2:** memory for speed, SQLite for persistence across restarts.
-- **TTLs:** cached truth goes stale — expire it on purpose instead of serving lies forever.
-- **Bounded concurrency:** parallelism without a limit is just a slower DDoS against yourself.
-- **Graceful failure:** upstream fails → return something sane, don't take the whole system down.
-- **Tests + measurements:** RAM, behavior under concurrent load, weird IDs — tested, not assumed.
+<br />
+
+<p align="center">
+<strong>No browser:</strong> launching a browser for something solvable with one HTTP request is waste.<br />
+<strong>No LLM:</strong> classification here doesn't need inference — it needs parsing + caching.<br />
+<strong>L1 + L2:</strong> memory for speed, SQLite for persistence across restarts.<br />
+<strong>TTLs:</strong> cached truth goes stale — expire it on purpose instead of serving lies forever.<br />
+<strong>Bounded concurrency:</strong> parallelism without a limit is just a slower DDoS against yourself.<br />
+<strong>Graceful failure:</strong> upstream fails → return something sane, don't take the whole system down.<br />
+<strong>Tests + measurements:</strong> RAM, behavior under concurrent load, weird IDs — tested, not assumed.
+</p>
 
 </details>
 
@@ -332,13 +344,13 @@ That's the sort of optimization I enjoy finding — **one request does the work,
 
 ---
 
-# 🛠️ Tech Stack
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <div align="center">
 <sub>everything below is stuff I actually use or am actively exploring — no filler</sub>
 </div>
 
-### Languages
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -349,7 +361,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -359,7 +371,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -370,7 +382,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
 </p>
 
-### Databases & Storage
+<h3 align="center">Databases &amp; Storage</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -380,7 +392,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### APIs & Integrations
+<h3 align="center">APIs &amp; Integrations</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API" />
@@ -389,7 +401,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </p>
 
-### DevOps & Cloud
+<h3 align="center">DevOps &amp; Cloud</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -400,7 +412,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
-### Linux & OS
+<h3 align="center">Linux &amp; OS</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -410,7 +422,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-### Testing & Code Quality
+<h3 align="center">Testing &amp; Code Quality</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
@@ -419,7 +431,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </p>
 
-### Developer Tools
+<h3 align="center">Developer Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -428,7 +440,7 @@ That's the sort of optimization I enjoy finding — **one request does the work,
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
-### Architecture & Practices
+<h3 align="center">Architecture &amp; Practices</h3>
 
 ```text
 REST APIs · Async Programming · Caching Strategies · Request Coalescing
@@ -436,7 +448,7 @@ Background Workers · Rate Limiting · Database Design · Error Handling
 Logging & Monitoring · CI/CD Pipelines
 ```
 
-### Currently Exploring
+<h3 align="center">Currently Exploring</h3>
 
 ```text
 AI / LLMs · Cloud Infrastructure · Backend Architecture
@@ -447,9 +459,9 @@ Container Orchestration · Observability · Security Best Practices
 
 ---
 
-# ⚙️ My Engineering Philosophy
+<h1 align="center">⚙️ My Engineering Philosophy</h1>
 
-I like solving problems that look something like this:
+<p align="center">I like solving problems that look something like this:</p>
 
 ```text
           BEFORE
@@ -497,7 +509,7 @@ I like solving problems that look something like this:
                     Return
 ```
 
-And when something does need to be complicated, I want to know **why**.
+<p align="center">And when something does need to be complicated, I want to know <strong>why</strong>.</p>
 
 ```text
 less code
@@ -511,9 +523,9 @@ less resource usage
 fewer failure points
 ```
 
-## 🧪 Things I Like Optimizing
+<h2 align="center">🧪 Things I Like Optimizing</h2>
 
-### 🌐 Network
+<h3 align="center">🌐 Network</h3>
 
 ```text
 Can I avoid the request?
@@ -527,7 +539,7 @@ Can concurrency be bounded?
 Can failure be graceful?
 ```
 
-### 💾 Memory
+<h3 align="center">💾 Memory</h3>
 
 ```text
 How much RAM does this actually use?
@@ -542,15 +554,15 @@ But:
     find the limit
 ```
 
-### ⚡ Performance
+<h3 align="center">⚡ Performance</h3>
 
-> **"It feels faster" isn't a measurement.**
+<p align="center"><strong>"It feels faster" isn't a measurement.</strong></p>
 
-I like benchmarks because feelings don't scale. Numbers do — as long as you're measuring the right thing.
+<p align="center">I like benchmarks because feelings don't scale. Numbers do — as long as you're measuring the right thing.</p>
 
 ---
 
-# 🔁 How I Build
+<h1 align="center">🔁 How I Build</h1>
 
 <div align="center">
 
@@ -602,7 +614,7 @@ $ build --idea "clip youtube fast"
 
 ---
 
-# 🔬 A Few Rules I Try To Follow
+<h1 align="center">🔬 A Few Rules I Try To Follow</h1>
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -619,11 +631,11 @@ $ build --idea "clip youtube fast"
 └──────────────────────────────────────────────┘
 ```
 
-## 🧰 My Favorite Kind of Problem
+<h2 align="center">🧰 My Favorite Kind of Problem</h2>
 
-Something nobody notices until you look closely.
+<p align="center">Something nobody notices until you look closely.</p>
 
-For example:
+<p align="center">For example:</p>
 
 ```text
 "Why are we making 10,000 requests?"
@@ -638,15 +650,15 @@ For example:
 that could be solved with one HTTP request?"
 ```
 
-Those are fun problems.
+<p align="center">Those are fun problems.</p>
 
 ---
 
-# 🤖 AI & Development
+<h1 align="center">🤖 AI &amp; Development</h1>
 
-I use AI as a **tool**, not as a replacement for understanding the software.
+<p align="center">I use AI as a <strong>tool</strong>, not as a replacement for understanding the software.</p>
 
-My preferred workflow is roughly:
+<p align="center">My preferred workflow is roughly:</p>
 
 ```mermaid
 flowchart TD
@@ -680,31 +692,33 @@ Test
 Ship
 ```
 
-The goal isn't to generate more code. The goal is to **build better software faster** — while still knowing how every important piece works, why it's shaped that way, and what happens when it fails.
+<p align="center">The goal isn't to generate more code. The goal is to <strong>build better software faster</strong> — while still knowing how every important piece works, why it's shaped that way, and what happens when it fails.</p>
 
 <div align="center">
 
-| AI helps with | I still own |
-| :--- | :--- |
-| exploration + boilerplate | architecture decisions |
-| debugging hypotheses | performance tradeoffs |
-| test scaffolding | final code review |
-| docs + automation | shipping responsibility |
+<table>
+<tr><th>AI helps with</th><th>I still own</th></tr>
+<tr><td align="center">exploration + boilerplate</td><td align="center">architecture decisions</td></tr>
+<tr><td align="center">debugging hypotheses</td><td align="center">performance tradeoffs</td></tr>
+<tr><td align="center">test scaffolding</td><td align="center">final code review</td></tr>
+<tr><td align="center">docs + automation</td><td align="center">shipping responsibility</td></tr>
+</table>
 
 </div>
 
 ---
 
-# 🧩 Projects
-
-| Project | What it does | Technology | Interesting technical detail |
-| :--- | :--- | :--- | :--- |
-| 🎮 **Game Sorting** | Lightweight YouTube game detection → cached result | Python · SQLite · Caching | L1 + L2 cache, request coalescing, bounded concurrency, TTLs — no browser, no LLM |
-| 🌐 **boink_2068** | Personal website / experimental web project | JavaScript · Web | Playground for trying web ideas fast and breaking them safely |
-
-More experiments, tools and projects will keep appearing here as I build them.
+<h1 align="center">🧩 Projects</h1>
 
 <div align="center">
+
+<table>
+<tr><th>Project</th><th>What it does</th><th>Technology</th><th>Interesting technical detail</th></tr>
+<tr><td align="center">🎮 <strong>Game Sorting</strong></td><td align="center">Lightweight YouTube game detection → cached result</td><td align="center">Python · SQLite · Caching</td><td align="center">L1 + L2 cache, request coalescing, bounded concurrency, TTLs — no browser, no LLM</td></tr>
+<tr><td align="center">🌐 <strong>boink_2068</strong></td><td align="center">Personal website / experimental web project</td><td align="center">JavaScript · Web</td><td align="center">Playground for trying web ideas fast and breaking them safely</td></tr>
+</table>
+
+<p>More experiments, tools and projects will keep appearing here as I build them.</p>
 
 <a href="https://github.com/itsmobsys?tab=repositories">
   <img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
@@ -717,7 +731,7 @@ More experiments, tools and projects will keep appearing here as I build them.
 
 ---
 
-# 📊 GitHub Dashboard
+<h1 align="center">📊 GitHub Dashboard</h1>
 
 <div align="center">
 
@@ -742,7 +756,7 @@ More experiments, tools and projects will keep appearing here as I build them.
 
 </div>
 
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
 
@@ -752,24 +766,25 @@ More experiments, tools and projects will keep appearing here as I build them.
 
 ---
 
-# 🧠 What I'm Learning
+<h1 align="center">🧠 What I'm Learning</h1>
 
-I'm constantly working on becoming better at:
+<p align="center">I'm constantly working on becoming better at:</p>
 
 <div align="center">
 
-| Area | Why it matters to me |
-| :--- | :--- |
-| 🏛️ **Software architecture** | Bigger systems need cleaner boundaries |
-| 🔧 **Backend engineering** | APIs, caches, workers, and databases |
-| 🐧 **Linux internals** | Understand what the machine is really doing |
-| ☁️ **Cloud infrastructure** | From laptop prototype → reliable service |
-| ⚡ **Performance optimization** | Measure, cache, coalesce, repeat |
-| 🤖 **AI-assisted development** | Better software, faster — without losing understanding |
-| 🤖 **Automation** | Repetitive work should disappear |
-| 🏗️ **Building larger systems** | Prototypes are easy, systems are hard |
-| 🛠️ **Maintaining projects** | Software lives after the first commit |
-| 🔁 **Prototypes → reliable software** | Turning experiments into things people can use |
+<table>
+<tr><th>Area</th><th>Why it matters to me</th></tr>
+<tr><td align="center">🏛️ <strong>Software architecture</strong></td><td align="center">Bigger systems need cleaner boundaries</td></tr>
+<tr><td align="center">🔧 <strong>Backend engineering</strong></td><td align="center">APIs, caches, workers, and databases</td></tr>
+<tr><td align="center">🐧 <strong>Linux internals</strong></td><td align="center">Understand what the machine is really doing</td></tr>
+<tr><td align="center">☁️ <strong>Cloud infrastructure</strong></td><td align="center">From laptop prototype → reliable service</td></tr>
+<tr><td align="center">⚡ <strong>Performance optimization</strong></td><td align="center">Measure, cache, coalesce, repeat</td></tr>
+<tr><td align="center">🤖 <strong>AI-assisted development</strong></td><td align="center">Better software, faster — without losing understanding</td></tr>
+<tr><td align="center">🤖 <strong>Automation</strong></td><td align="center">Repetitive work should disappear</td></tr>
+<tr><td align="center">🏗️ <strong>Building larger systems</strong></td><td align="center">Prototypes are easy, systems are hard</td></tr>
+<tr><td align="center">🛠️ <strong>Maintaining projects</strong></td><td align="center">Software lives after the first commit</td></tr>
+<tr><td align="center">🔁 <strong>Prototypes → reliable software</strong></td><td align="center">Turning experiments into things people can use</td></tr>
+</table>
 
 </div>
 
@@ -782,11 +797,11 @@ Container Orchestration · Observability · Security Best Practices
 
 ---
 
-# 🌱 Still Building
+<h1 align="center">🌱 Still Building</h1>
 
-I'm still early in the journey, which means there is a lot left to learn.
+<p align="center">I'm still early in the journey, which means there is a lot left to learn.</p>
 
-There will be:
+<p align="center">There will be:</p>
 
 ```text
 more projects
@@ -797,13 +812,13 @@ more terrible ideas
 more surprisingly good ideas
 ```
 
-And hopefully, a lot more things worth showing here.
+<p align="center">And hopefully, a lot more things worth showing here.</p>
 
-> Curiosity + questionable amounts of debugging + probably too many optimizations.
+<p align="center"><em>Curiosity + questionable amounts of debugging + probably too many optimizations.</em></p>
 
 ---
 
-# 📌 Explore
+<h1 align="center">📌 Explore</h1>
 
 <div align="center">
 
@@ -827,7 +842,7 @@ And hopefully, a lot more things worth showing here.
 
 <div align="center">
 
-### 💭 "Build it. Break it. Understand it. Make it better."
+<h3>💭 "Build it. Break it. Understand it. Make it better."</h3>
 
 <br />
 
