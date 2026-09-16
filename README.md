@@ -1,79 +1,80 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-
 <!--  DEV · @itsmobsys · GitHub Profile Portfolio                    -->
-
 <!--  Stack: Python · JavaScript · Linux · Backend · Performance      -->
-
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" alt="header wave" />
+</div>
 
-<br />
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=itsmobsys&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://img.shields.io/github/followers/itsmobsys?style=flat-square&color=blueviolet&label=FOLLOWERS" alt="followers" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-2ea44f?style=flat-square" alt="status: active build" />
+  <img src="https://komarev.com/ghpvc/?username=itsmobsys&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/itsmobsys?style=flat-square&color=blueviolet&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-2ea44f?style=flat-square" alt="status: active build" />
 
-<br /><br />
+  <br /><br />
 
-<h1>⚡ HEY, I'M DEV</h1>
+  <h1>⚡ HEY, I'M DEV</h1>
 
-<h3><code>@itsmobsys</code></h3>
+  <h3><code>@itsmobsys</code></h3>
 
-<p><strong>I build things because I want to know how they work.</strong></p>
+  <p><strong>I build things because I want to know how they work.</strong></p>
 
-<p>
-  <sub>real projects · weird problems · performance · automation · backend</sub>
-</p>
+  <p>
+    <sub>real projects · weird problems · performance · automation · backend</sub>
+  </p>
 
-<a href="https://github.com/itsmobsys">
-  <img src="https://img.shields.io/badge/GitHub-itsmobsys-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://github.com/itsmobsys?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Browse-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
-</a>
-<a href="https://github.com/itsmobsys/Game-sorting-for-clipwave">
-  <img src="https://img.shields.io/badge/Featured-Game_Sorting-000000?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" />
-</a>
+  <a href="https://github.com/itsmobsys">
+    <img src="https://img.shields.io/badge/GitHub-itsmobsys-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/itsmobsys?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Browse-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
+  </a>
+  <a href="https://github.com/itsmobsys/Game-sorting-for-clipwave">
+    <img src="https://img.shields.io/badge/Featured-Game_Sorting-000000?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" />
+  </a>
 
-<br /><br />
+  <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+Real+Projects;Python+%7C+JavaScript+%7C+Linux;Performance+%7C+Automation+%7C+Backend;Breaking+things+to+understand+them;Build+it.+Break+it.+Make+it+better." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+Real+Projects;Python+%7C+JavaScript+%7C+Linux;Performance+%7C+Automation+%7C+Backend;Breaking+things+to+understand+them;Build+it.+Break+it.+Make+it+better." alt="typing animation" />
 
-<br />
+  <br />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  </p>
 
-<br /><br />
+  <p>
+    <sub>
+      <a href="#-about-me">About</a> ·
+      <a href="#-featured-project">Featured</a> ·
+      <a href="#-tech-stack">Stack</a> ·
+      <a href="#-my-engineering-philosophy">Philosophy</a> ·
+      <a href="#-how-i-build">Workflow</a> ·
+      <a href="#-projects">Projects</a> ·
+      <a href="#-github-dashboard">Stats</a>
+    </sub>
+  </p>
 
-<p>
-  <sub>
-    <a href="#-about-me">About</a> ·
-    <a href="#-featured-project">Featured</a> ·
-    <a href="#-tech-stack">Stack</a> ·
-    <a href="#-my-engineering-philosophy">Philosophy</a> ·
-    <a href="#-how-i-build">Workflow</a> ·
-    <a href="#-projects">Projects</a> ·
-    <a href="#-github-dashboard">Stats</a>
-  </sub>
-</p>
+</div>
 
-<hr />
+---
 
-<h3>Fast · Lightweight · Reliable · Maintainable · Actually useful</h3>
+<h3 align="center">Fast · Lightweight · Reliable · Maintainable · Actually useful</h3>
 
-<h1 id="-about-me">🧠 About Me</h1>
+<h1 align="center">🧠 About Me</h1>
 
-<p>I'm a developer who enjoys building <strong>real projects</strong>, solving <strong>weird problems</strong>, <strong>optimizing things that probably didn't need optimizing</strong>, and then finding out <strong>why everything broke</strong>.</p>
+<p align="center">I'm a developer who enjoys building <strong>real projects</strong>, solving <strong>weird problems</strong>, <strong>optimizing things that probably didn't need optimizing</strong>, and then finding out <strong>why everything broke</strong>.</p>
 
-<p>I like working on software where the interesting part isn't just the UI. The stuff underneath matters too — caching, APIs, concurrency, resource usage, failure modes.</p>
+<p align="center">I like working on software where the interesting part isn't just the UI. The stuff underneath matters too — caching, APIs, concurrency, resource usage, failure modes.</p>
+
+<div align="center">
 
 <table>
 <tr>
@@ -84,9 +85,9 @@
 </tr>
 </table>
 
-<h3>HOW I BUILD</h3>
+</div>
 
-<pre align="center">
+```text
 ┌───────────────────────────────────────────────────┐
 │                    HOW I BUILD                    │
 ├───────────────────────────────────────────────────┤
@@ -106,13 +107,15 @@
 │   ship it                                         │
 │                                                   │
 └───────────────────────────────────────────────────┘
-</pre>
+```
 
-<p><em>I don't particularly care about writing the <strong>most</strong> code. I'd rather write less code that does less unnecessary work.</em></p>
+<p align="center"><em>I don't particularly care about writing the <strong>most</strong> code. I'd rather write less code that does less unnecessary work.</em></p>
 
-<hr />
+---
 
-<h1>🚧 What I'm Focused On</h1>
+<h1 align="center">🚧 What I'm Focused On</h1>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/FOCUS-Backend_Systems-7c3aed?style=for-the-badge" alt="Focus backend systems" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-2ea44f?style=for-the-badge" alt="Active build" />
@@ -122,7 +125,11 @@
 
 <p><code>caching</code> → <code>APIs</code> → <code>automation</code> → <code>infra</code> → <code>performance</code></p>
 
-<p>I'm most interested in the stuff underneath the UI:</p>
+</div>
+
+<p align="center">I'm most interested in the stuff underneath the UI:</p>
+
+<div align="center">
 
 <table>
 <tr><th>System</th><th>What I work on</th></tr>
@@ -134,36 +141,26 @@
 <tr><td align="center">📊 <strong>Performance</strong></td><td align="center">Measuring instead of guessing</td></tr>
 </table>
 
-<h3>🗺️ How I think about systems</h3>
+</div>
 
-<pre align="center">
-Request / Job
-      │
-      ▼
-   🔌 APIs
-      │
-      ▼
-⚡ Caching Layer
-      │
-      ▼
-🤖 Automation
-      │
-      ▼
-🖥️ Infrastructure
-      │
-      ▼
-📊 Performance
-      │
-      ▼
-🧠 AI / LLM Experiments
-</pre>
+<h3 align="center">🗺️ How I think about systems</h3>
+
+```mermaid
+flowchart TB
+    REQ["Request / Job"] --> API["🔌 APIs"]
+
+    API --> CA["⚡ Caching Layer<br/>reduce repeat work"]
+    CA --> AU["🤖 Automation"]
+    AU --> INF["🖥️ Infra<br/>lightweight + reliable"]
+    INF --> PERF["📊 Performance<br/>measure, don't guess"]
+
+    PERF --> AI["🧠 AI / LLM Experiments"]
+```
 
 <details>
 <summary><strong>🧩 View as terminal map (same idea, text version)</strong></summary>
 
-<br />
-
-<pre align="center">
+```text
                 Request / Job
                       │
                       ▼
@@ -180,7 +177,7 @@ Request / Job
                       ▼
            Performance + AI tests
           (measure, then experiment)
-</pre>
+```
 
 </details>
 
@@ -189,7 +186,7 @@ Request / Job
 
 <br />
 
-<p>
+<p align="center">
 Get it <strong>correct before making it fast</strong> — then make it cheap.<br />
 Caching sits in front of repeated work — if we already know the answer, don't recompute it.<br />
 Automation removes the repetitive glue so the system stays maintainable.<br />
@@ -198,9 +195,11 @@ Measure real behavior — resource usage, failure modes, bottlenecks — instead
 
 </details>
 
-<hr />
+---
 
-<h1 id="-featured-project">🎮 Featured Project</h1>
+<h1 align="center">🎮 Featured Project</h1>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/FEATURED-Game_Sorting-000000?style=for-the-badge&logo=github&logoColor=white" alt="Featured" />
 <img src="https://img.shields.io/badge/Python-Lightweight-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python lightweight" />
@@ -211,11 +210,15 @@ Measure real behavior — resource usage, failure modes, bottlenecks — instead
 
 <p><strong>A lightweight Python module that identifies the game associated with a YouTube video — without throwing a giant stack of dependencies at the problem.</strong></p>
 
-<a href="https://github.com/itsmobsys/Game-sorting-for-clipwave">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-Game_Sorting-000000?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-</a>
+  <a href="https://github.com/itsmobsys/Game-sorting-for-clipwave">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-Game_Sorting-000000?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+  </a>
 
-<h2>Problem → Approach → Architecture → Optimization → Testing → Result</h2>
+</div>
+
+<h2 align="center">Problem → Approach → Architecture → Optimization → Testing → Result</h2>
+
+<div align="center">
 
 <table>
 <tr><th>Step</th><th>Question it answers</th></tr>
@@ -229,44 +232,27 @@ Measure real behavior — resource usage, failure modes, bottlenecks — instead
 
 <p><strong><code>Problem ↓ Approach ↓ Architecture ↓ Optimization ↓ Testing ↓ Result</code></strong></p>
 
-<h3>✨ The design</h3>
+</div>
 
-<pre align="center">
-YouTube Video
-      │
-      ▼
-Validate ID
-      │
-      ▼
-L1 Memory Cache?
-   │         │
-  HIT       MISS
-   │         │
-   ▼         ▼
-Return   L2 SQLite?
-             │
-          ┌──┴──┐
-         HIT   MISS
-          │      │
-          ▼      ▼
-       Return  HTTP Request
-                   │
-                   ▼
-              Extract Game
-                   │
-                   ▼
-              Store L1 + L2
-                   │
-                   ▼
-                 Return
-</pre>
+<h3 align="center">✨ The design</h3>
+
+```mermaid
+flowchart TD
+    VID["YouTube Video"] --> VAL["Validate ID"]
+    VAL --> L1{"L1 Memory Cache?"}
+    L1 -- "HIT" --> RET1["Return"]
+    L1 -- "MISS" --> L2{"L2 SQLite?"}
+    L2 -- "HIT" --> RET2["Return"]
+    L2 -- "MISS" --> HTTP["Single HTTP Request"]
+    HTTP --> EXT["Extract Game"]
+    EXT --> STORE["Store L1 + L2"]
+    STORE --> RET3["Return"]
+```
 
 <details>
 <summary><strong>📟 Same flow as terminal diagram</strong></summary>
 
-<br />
-
-<pre align="center">
+```text
                   YouTube Video
                         │
                         ▼
@@ -295,11 +281,13 @@ Return   L2 SQLite?
                                    │
                                    ▼
                                 Return
-</pre>
+```
 
 </details>
 
-<h3>🔥 Things I specifically cared about</h3>
+<h3 align="center">🔥 Things I specifically cared about</h3>
+
+<div align="center">
 
 <table>
 <tr><td align="center">✅ No browser automation</td><td align="center">✅ No LLM calls</td><td align="center">✅ Minimal dependencies</td></tr>
@@ -308,13 +296,15 @@ Return   L2 SQLite?
 <tr><td align="center">✅ Automated tests</td><td align="center">✅ Resource measurements</td><td align="center">✅ Predictable memory usage</td></tr>
 </table>
 
-<h3>🧪 The interesting part — request coalescing</h3>
+</div>
 
-<p>When multiple callers ask for the <strong>same video simultaneously</strong>, they shouldn't all independently hit YouTube.</p>
+<h3 align="center">🧪 The interesting part — request coalescing</h3>
 
-<p>Instead:</p>
+<p align="center">When multiple callers ask for the <strong>same video simultaneously</strong>, they shouldn't all independently hit YouTube.</p>
 
-<pre align="center">
+<p align="center">Instead:</p>
+
+```text
 Caller 1 ─┐
 Caller 2 ─┤
 Caller 3 ─┼──► ONE HTTP REQUEST
@@ -323,16 +313,16 @@ Caller 5 ─┘
                  │
                  ▼
              Shared result
-</pre>
+```
 
-<p>That's the sort of optimization I enjoy finding — <strong>one request does the work, everyone shares the result, the cache makes the next call free.</strong></p>
+<p align="center">That's the sort of optimization I enjoy finding — <strong>one request does the work, everyone shares the result, the cache makes the next call free.</strong></p>
 
 <details>
 <summary><strong>🔬 Engineering decisions (expand)</strong></summary>
 
 <br />
 
-<p>
+<p align="center">
 <strong>No browser:</strong> launching a browser for something solvable with one HTTP request is waste.<br />
 <strong>No LLM:</strong> classification here doesn't need inference — it needs parsing + caching.<br />
 <strong>L1 + L2:</strong> memory for speed, SQLite for persistence across restarts.<br />
@@ -344,21 +334,25 @@ Caller 5 ─┘
 
 </details>
 
+<div align="center">
+
 <a href="https://github.com/itsmobsys/Game-sorting-for-clipwave">
   <img src="https://img.shields.io/badge/READ_THE_CODE-Game_Sorting-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Read the code" />
 </a>
 
-<hr />
+</div>
 
-<h1 id="-tech-stack">🛠️ Tech Stack</h1>
+---
 
-<p>
+<h1 align="center">🛠️ Tech Stack</h1>
+
+<div align="center">
 <sub>everything below is stuff I actually use or am actively exploring — no filler</sub>
-</p>
+</div>
 
-<h3>Languages</h3>
+<h3 align="center">Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -367,9 +361,9 @@ Caller 5 ─┘
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-<h3>Frontend</h3>
+<h3 align="center">Frontend</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -377,9 +371,9 @@ Caller 5 ─┘
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3>Backend</h3>
+<h3 align="center">Backend</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -388,9 +382,9 @@ Caller 5 ─┘
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
 </p>
 
-<h3>Databases &amp; Storage</h3>
+<h3 align="center">Databases &amp; Storage</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -398,18 +392,18 @@ Caller 5 ─┘
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<h3>APIs &amp; Integrations</h3>
+<h3 align="center">APIs &amp; Integrations</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API" />
   <img src="https://img.shields.io/badge/Twitch_API-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch API" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </p>
 
-<h3>DevOps &amp; Cloud</h3>
+<h3 align="center">DevOps &amp; Cloud</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
@@ -418,9 +412,9 @@ Caller 5 ─┘
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
-<h3>Linux &amp; OS</h3>
+<h3 align="center">Linux &amp; OS</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -428,48 +422,48 @@ Caller 5 ─┘
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-<h3>Testing &amp; Code Quality</h3>
+<h3 align="center">Testing &amp; Code Quality</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </p>
 
-<h3>Developer Tools</h3>
+<h3 align="center">Developer Tools</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
-<h3>Architecture &amp; Practices</h3>
+<h3 align="center">Architecture &amp; Practices</h3>
 
-<pre align="center">
+```text
 REST APIs · Async Programming · Caching Strategies · Request Coalescing
 Background Workers · Rate Limiting · Database Design · Error Handling
 Logging & Monitoring · CI/CD Pipelines
-</pre>
+```
 
-<h3>Currently Exploring</h3>
+<h3 align="center">Currently Exploring</h3>
 
-<pre align="center">
+```text
 AI / LLMs · Cloud Infrastructure · Backend Architecture
 Performance Engineering · Automation · Distributed Systems
 Linux Internals · Developer Tooling · React Ecosystem
 Container Orchestration · Observability · Security Best Practices
-</pre>
+```
 
-<hr />
+---
 
-<h1 id="-my-engineering-philosophy">⚙️ My Engineering Philosophy</h1>
+<h1 align="center">⚙️ My Engineering Philosophy</h1>
 
-<p>I like solving problems that look something like this:</p>
+<p align="center">I like solving problems that look something like this:</p>
 
-<pre align="center">
+```text
           BEFORE
 
      Request arrives
@@ -513,11 +507,11 @@ Container Orchestration · Observability · Security Best Practices
                        │
                        ▼
                     Return
-</pre>
+```
 
-<p>And when something does need to be complicated, I want to know <strong>why</strong>.</p>
+<p align="center">And when something does need to be complicated, I want to know <strong>why</strong>.</p>
 
-<pre align="center">
+```text
 less code
    ↓
 less complexity
@@ -527,13 +521,13 @@ less work
 less resource usage
    ↓
 fewer failure points
-</pre>
+```
 
-<h2>🧪 Things I Like Optimizing</h2>
+<h2 align="center">🧪 Things I Like Optimizing</h2>
 
-<h3>🌐 Network</h3>
+<h3 align="center">🌐 Network</h3>
 
-<pre align="center">
+```text
 Can I avoid the request?
         ↓
 Can I cache the result?
@@ -543,11 +537,11 @@ Can requests share the same work?
 Can concurrency be bounded?
         ↓
 Can failure be graceful?
-</pre>
+```
 
-<h3>💾 Memory</h3>
+<h3 align="center">💾 Memory</h3>
 
-<pre align="center">
+```text
 How much RAM does this actually use?
 
 Not:
@@ -558,17 +552,19 @@ But:
     test it
     stress it
     find the limit
-</pre>
+```
 
-<h3>⚡ Performance</h3>
+<h3 align="center">⚡ Performance</h3>
 
-<p><strong>"It feels faster" isn't a measurement.</strong></p>
+<p align="center"><strong>"It feels faster" isn't a measurement.</strong></p>
 
-<p>I like benchmarks because feelings don't scale. Numbers do — as long as you're measuring the right thing.</p>
+<p align="center">I like benchmarks because feelings don't scale. Numbers do — as long as you're measuring the right thing.</p>
 
-<hr />
+---
 
-<h1 id="-how-i-build">🔁 How I Build</h1>
+<h1 align="center">🔁 How I Build</h1>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/IDEA-start-7c3aed?style=for-the-badge" alt="Idea" />
 ➜
@@ -586,30 +582,23 @@ But:
 ➜
 <img src="https://img.shields.io/badge/SHIP-deliver-000000?style=for-the-badge" alt="Ship" />
 
-<pre align="center">
-💡 IDEA
-   ↓
-🧪 PROTOTYPE
-   ↓
-💥 BREAK IT
-   ↓
-🔍 UNDERSTAND WHY
-   ↓
-📏 MEASURE
-   ↓
-⚡ OPTIMIZE
-   ↓
-🧪 TEST
-   ↓
-🚀 SHIP
-</pre>
+</div>
+
+```mermaid
+flowchart TD
+    A["💡 IDEA"] --> B["🧪 PROTOTYPE"]
+    B --> C["💥 BREAK IT"]
+    C --> D["🔍 UNDERSTAND WHY"]
+    D --> E["📏 MEASURE"]
+    E --> F["⚡ OPTIMIZE"]
+    F --> G["🧪 TEST"]
+    G --> H["🚀 SHIP"]
+```
 
 <details>
 <summary><strong>📟 Terminal version of the loop</strong></summary>
 
-<br />
-
-<pre align="center">
+```bash
 $ build --idea "clip youtube fast"
 [1/8] prototype ......... done
 [2/8] break it .......... done (of course)
@@ -619,15 +608,15 @@ $ build --idea "clip youtube fast"
 [6/8] test .............. weird cases included
 [7/8] ship .............. people can actually use it
 [8/8] repeat ............ more bugs, more learning
-</pre>
+```
 
 </details>
 
-<hr />
+---
 
-<h1>🔬 A Few Rules I Try To Follow</h1>
+<h1 align="center">🔬 A Few Rules I Try To Follow</h1>
 
-<pre align="center">
+```text
 ┌──────────────────────────────────────────────┐
 │  01  Measure before optimizing               │
 │  02  Cache before repeating work             │
@@ -640,15 +629,15 @@ $ build --idea "clip youtube fast"
 │  09  Automate repetitive work                │
 │  10  Ship things people can actually use     │
 └──────────────────────────────────────────────┘
-</pre>
+```
 
-<h2>🧰 My Favorite Kind of Problem</h2>
+<h2 align="center">🧰 My Favorite Kind of Problem</h2>
 
-<p>Something nobody notices until you look closely.</p>
+<p align="center">Something nobody notices until you look closely.</p>
 
-<p>For example:</p>
+<p align="center">For example:</p>
 
-<pre align="center">
+```text
 "Why are we making 10,000 requests?"
 
 "Why does this use 500 MB?"
@@ -659,19 +648,31 @@ $ build --idea "clip youtube fast"
 
 "Why are we launching a browser for something
 that could be solved with one HTTP request?"
-</pre>
+```
 
-<p>Those are fun problems.</p>
+<p align="center">Those are fun problems.</p>
 
-<hr />
+---
 
-<h1>🤖 AI &amp; Development</h1>
+<h1 align="center">🤖 AI &amp; Development</h1>
 
-<p>I use AI as a <strong>tool</strong>, not as a replacement for understanding the software.</p>
+<p align="center">I use AI as a <strong>tool</strong>, not as a replacement for understanding the software.</p>
 
-<p>My preferred workflow is roughly:</p>
+<p align="center">My preferred workflow is roughly:</p>
 
-<pre align="center">
+```mermaid
+flowchart TD
+    A["Human idea"] --> B["AI-assisted exploration"]
+    B --> C["Prototype"]
+    C --> D["Read the code"]
+    D --> E["Break the code"]
+    E --> F["Understand the code"]
+    F --> G["Fix the architecture"]
+    G --> H["Test"]
+    H --> I["Ship"]
+```
+
+```text
 Human idea
     ↓
 AI-assisted exploration
@@ -689,9 +690,11 @@ Fix the architecture
 Test
     ↓
 Ship
-</pre>
+```
 
-<p>The goal isn't to generate more code. The goal is to <strong>build better software faster</strong> — while still knowing how every important piece works, why it's shaped that way, and what happens when it fails.</p>
+<p align="center">The goal isn't to generate more code. The goal is to <strong>build better software faster</strong> — while still knowing how every important piece works, why it's shaped that way, and what happens when it fails.</p>
+
+<div align="center">
 
 <table>
 <tr><th>AI helps with</th><th>I still own</th></tr>
@@ -701,9 +704,13 @@ Ship
 <tr><td align="center">docs + automation</td><td align="center">shipping responsibility</td></tr>
 </table>
 
-<hr />
+</div>
 
-<h1 id="-projects">🧩 Projects</h1>
+---
+
+<h1 align="center">🧩 Projects</h1>
+
+<div align="center">
 
 <table>
 <tr><th>Project</th><th>What it does</th><th>Technology</th><th>Interesting technical detail</th></tr>
@@ -720,9 +727,13 @@ Ship
   <img src="https://img.shields.io/badge/FEATURED_PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" />
 </a>
 
-<hr />
+</div>
 
-<h1 id="-github-dashboard">📊 GitHub Dashboard</h1>
+---
+
+<h1 align="center">📊 GitHub Dashboard</h1>
+
+<div align="center">
 
 <table>
 <tr>
@@ -743,15 +754,23 @@ Ship
 </tr>
 </table>
 
-<h2>📈 Contribution Graph</h2>
+</div>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmobsys&bg_color=00000000&hide_border=true&area=true&custom_title=Vikram's%20Contribution%20Graph" width="95%" alt="Contribution graph" />
 
-<hr />
+</div>
 
-<h1>🧠 What I'm Learning</h1>
+---
 
-<p>I'm constantly working on becoming better at:</p>
+<h1 align="center">🧠 What I'm Learning</h1>
+
+<p align="center">I'm constantly working on becoming better at:</p>
+
+<div align="center">
 
 <table>
 <tr><th>Area</th><th>Why it matters to me</th></tr>
@@ -767,37 +786,41 @@ Ship
 <tr><td align="center">🔁 <strong>Prototypes → reliable software</strong></td><td align="center">Turning experiments into things people can use</td></tr>
 </table>
 
-<pre align="center">
+</div>
+
+```text
 AI / LLMs · Cloud Infrastructure · Backend Architecture
 Performance Engineering · Automation · Distributed Systems
 Linux Internals · Developer Tooling · React Ecosystem
 Container Orchestration · Observability · Security Best Practices
-</pre>
+```
 
-<hr />
+---
 
-<h1>🌱 Still Building</h1>
+<h1 align="center">🌱 Still Building</h1>
 
-<p>I'm still early in the journey, which means there is a lot left to learn.</p>
+<p align="center">I'm still early in the journey, which means there is a lot left to learn.</p>
 
-<p>There will be:</p>
+<p align="center">There will be:</p>
 
-<pre align="center">
+```text
 more projects
 more bugs
 more experiments
 more optimizations
 more terrible ideas
 more surprisingly good ideas
-</pre>
+```
 
-<p>And hopefully, a lot more things worth showing here.</p>
+<p align="center">And hopefully, a lot more things worth showing here.</p>
 
-<p><em>Curiosity + questionable amounts of debugging + probably too many optimizations.</em></p>
+<p align="center"><em>Curiosity + questionable amounts of debugging + probably too many optimizations.</em></p>
 
-<hr />
+---
 
-<h1>📌 Explore</h1>
+<h1 align="center">📌 Explore</h1>
+
+<div align="center">
 
 <a href="https://github.com/itsmobsys?tab=repositories">
   <img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
@@ -813,7 +836,11 @@ more surprisingly good ideas
 
 <sub>start with <a href="https://github.com/itsmobsys/Game-sorting-for-clipwave">Game Sorting</a> if you want the most technical read — then dig through the rest.</sub>
 
-<hr />
+</div>
+
+---
+
+<div align="center">
 
 <h3>💭 "Build it. Break it. Understand it. Make it better."</h3>
 
