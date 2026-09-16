@@ -87,7 +87,8 @@
 
 </div>
 
-```text
+<div align="center">
+<pre>
 ┌───────────────────────────────────────────────────┐
 │                    HOW I BUILD                    │
 ├───────────────────────────────────────────────────┤
@@ -107,7 +108,8 @@
 │   ship it                                         │
 │                                                   │
 └───────────────────────────────────────────────────┘
-```
+</pre>
+</div>
 
 <p align="center"><em>I don't particularly care about writing the <strong>most</strong> code. I'd rather write less code that does less unnecessary work.</em></p>
 
@@ -160,24 +162,26 @@ flowchart TB
 <details>
 <summary><strong>🧩 View as terminal map (same idea, text version)</strong></summary>
 
-```text
-                Request / Job
-                      │
-                      ▼
-                 APIs (glue)
-                      │
-                      ▼
-               Caching layer
-            (avoid repeat work)
-                      │
-                      ▼
-            Automation + Infra
-         (lightweight + reliable)
-                      │
-                      ▼
-           Performance + AI tests
+<div align="center">
+<pre>
+                Request / Job       
+                      │             
+                      ▼             
+                 APIs (glue)        
+                      │             
+                      ▼             
+               Caching layer        
+            (avoid repeat work)     
+                      │             
+                      ▼             
+            Automation + Infra      
+         (lightweight + reliable)   
+                      │             
+                      ▼             
+           Performance + AI tests   
           (measure, then experiment)
-```
+</pre>
+</div>
 
 </details>
 
@@ -252,36 +256,38 @@ flowchart TD
 <details>
 <summary><strong>📟 Same flow as terminal diagram</strong></summary>
 
-```text
-                  YouTube Video
-                        │
-                        ▼
-                 Validate ID
-                        │
-                        ▼
-                 L1 Memory Cache
-                    │       │
-                  HIT       MISS
-                    │       │
-                    ▼       ▼
-                 Return   L2 SQLite
-                              │
-                         ┌────┴────┐
-                         │         │
-                        HIT       MISS
-                         │         │
-                         ▼         ▼
+<div align="center">
+<pre>
+                  YouTube Video            
+                        │                  
+                        ▼                  
+                 Validate ID               
+                        │                  
+                        ▼                  
+                 L1 Memory Cache           
+                    │       │              
+                  HIT       MISS           
+                    │       │              
+                    ▼       ▼              
+                 Return   L2 SQLite        
+                              │            
+                         ┌────┴────┐       
+                         │         │       
+                        HIT       MISS     
+                         │         │       
+                         ▼         ▼       
                       Return   HTTP request
-                                   │
-                                   ▼
-                              Extract game
-                                   │
-                                   ▼
-                              Store result
-                                   │
-                                   ▼
-                                Return
-```
+                                   │       
+                                   ▼       
+                              Extract game 
+                                   │       
+                                   ▼       
+                              Store result 
+                                   │       
+                                   ▼       
+                                Return     
+</pre>
+</div>
 
 </details>
 
@@ -304,16 +310,18 @@ flowchart TD
 
 <p align="center">Instead:</p>
 
-```text
-Caller 1 ─┐
-Caller 2 ─┤
+<div align="center">
+<pre>
+Caller 1 ─┐                    
+Caller 2 ─┤                    
 Caller 3 ─┼──► ONE HTTP REQUEST
-Caller 4 ─┤
-Caller 5 ─┘
-                 │
-                 ▼
-             Shared result
-```
+Caller 4 ─┤                    
+Caller 5 ─┘                    
+                 │             
+                 ▼             
+             Shared result     
+</pre>
+</div>
 
 <p align="center">That's the sort of optimization I enjoy finding — <strong>one request does the work, everyone shares the result, the cache makes the next call free.</strong></p>
 
@@ -442,20 +450,24 @@ Caller 5 ─┘
 
 <h3 align="center">Architecture &amp; Practices</h3>
 
-```text
+<div align="center">
+<pre>
 REST APIs · Async Programming · Caching Strategies · Request Coalescing
-Background Workers · Rate Limiting · Database Design · Error Handling
-Logging & Monitoring · CI/CD Pipelines
-```
+Background Workers · Rate Limiting · Database Design · Error Handling  
+Logging &amp; Monitoring · CI/CD Pipelines                                 
+</pre>
+</div>
 
 <h3 align="center">Currently Exploring</h3>
 
-```text
-AI / LLMs · Cloud Infrastructure · Backend Architecture
-Performance Engineering · Automation · Distributed Systems
-Linux Internals · Developer Tooling · React Ecosystem
+<div align="center">
+<pre>
+AI / LLMs · Cloud Infrastructure · Backend Architecture          
+Performance Engineering · Automation · Distributed Systems       
+Linux Internals · Developer Tooling · React Ecosystem            
 Container Orchestration · Observability · Security Best Practices
-```
+</pre>
+</div>
 
 ---
 
@@ -463,96 +475,104 @@ Container Orchestration · Observability · Security Best Practices
 
 <p align="center">I like solving problems that look something like this:</p>
 
-```text
-          BEFORE
-
-     Request arrives
-            │
-            ▼
-      Do expensive thing
-            │
-            ▼
-      Do expensive thing
-            │
-            ▼
-      Do expensive thing
-            │
-            ▼
-        Return result
-
-
-          AFTER
-
-     Request arrives
-            │
-            ▼
-       Check memory
-            │
-       ┌────┴────┐
-       │         │
-      HIT       MISS
-       │         │
-       ▼         ▼
-    Return     Check DB
-                 │
-            ┌────┴────┐
-            │         │
-           HIT       MISS
-            │         │
-            ▼         ▼
+<div align="center">
+<pre>
+          BEFORE              
+                              
+     Request arrives          
+            │                 
+            ▼                 
+      Do expensive thing      
+            │                 
+            ▼                 
+      Do expensive thing      
+            │                 
+            ▼                 
+      Do expensive thing      
+            │                 
+            ▼                 
+        Return result         
+                              
+                              
+          AFTER               
+                              
+     Request arrives          
+            │                 
+            ▼                 
+       Check memory           
+            │                 
+       ┌────┴────┐            
+       │         │            
+      HIT       MISS          
+       │         │            
+       ▼         ▼            
+    Return     Check DB       
+                 │            
+            ┌────┴────┐       
+            │         │       
+           HIT       MISS     
+            │         │       
+            ▼         ▼       
          Return    One request
-                       │
-                       ▼
-                    Cache it
-                       │
-                       ▼
-                    Return
-```
+                       │      
+                       ▼      
+                    Cache it  
+                       │      
+                       ▼      
+                    Return    
+</pre>
+</div>
 
 <p align="center">And when something does need to be complicated, I want to know <strong>why</strong>.</p>
 
-```text
-less code
-   ↓
-less complexity
-   ↓
-less work
-   ↓
-less resource usage
-   ↓
+<div align="center">
+<pre>
+less code           
+   ↓                
+less complexity     
+   ↓                
+less work           
+   ↓                
+less resource usage 
+   ↓                
 fewer failure points
-```
+</pre>
+</div>
 
 <h2 align="center">🧪 Things I Like Optimizing</h2>
 
 <h3 align="center">🌐 Network</h3>
 
-```text
-Can I avoid the request?
-        ↓
-Can I cache the result?
-        ↓
+<div align="center">
+<pre>
+Can I avoid the request?         
+        ↓                        
+Can I cache the result?          
+        ↓                        
 Can requests share the same work?
-        ↓
-Can concurrency be bounded?
-        ↓
-Can failure be graceful?
-```
+        ↓                        
+Can concurrency be bounded?      
+        ↓                        
+Can failure be graceful?         
+</pre>
+</div>
 
 <h3 align="center">💾 Memory</h3>
 
-```text
+<div align="center">
+<pre>
 How much RAM does this actually use?
-
-Not:
-    "It should be fine."
-
-But:
-    measure it
-    test it
-    stress it
-    find the limit
-```
+                                    
+Not:                                
+    &quot;It should be fine.&quot;            
+                                    
+But:                                
+    measure it                      
+    test it                         
+    stress it                       
+    find the limit                  
+</pre>
+</div>
 
 <h3 align="center">⚡ Performance</h3>
 
@@ -598,17 +618,19 @@ flowchart TD
 <details>
 <summary><strong>📟 Terminal version of the loop</strong></summary>
 
-```bash
-$ build --idea "clip youtube fast"
-[1/8] prototype ......... done
-[2/8] break it .......... done (of course)
-[3/8] understand why .... reading logs at 2am
-[4/8] measure ........... no guessing, numbers only
-[5/8] optimize .......... cache > repeat
-[6/8] test .............. weird cases included
+<div align="center">
+<pre>
+$ build --idea &quot;clip youtube fast&quot;                  
+[1/8] prototype ......... done                      
+[2/8] break it .......... done (of course)          
+[3/8] understand why .... reading logs at 2am       
+[4/8] measure ........... no guessing, numbers only 
+[5/8] optimize .......... cache &gt; repeat            
+[6/8] test .............. weird cases included      
 [7/8] ship .............. people can actually use it
-[8/8] repeat ............ more bugs, more learning
-```
+[8/8] repeat ............ more bugs, more learning  
+</pre>
+</div>
 
 </details>
 
@@ -616,7 +638,8 @@ $ build --idea "clip youtube fast"
 
 <h1 align="center">🔬 A Few Rules I Try To Follow</h1>
 
-```text
+<div align="center">
+<pre>
 ┌──────────────────────────────────────────────┐
 │  01  Measure before optimizing               │
 │  02  Cache before repeating work             │
@@ -625,11 +648,12 @@ $ build --idea "clip youtube fast"
 │  05  Prefer simple systems                   │
 │  06  Test the weird cases                    │
 │  07  Understand the bottleneck               │
-│  08  Don't optimize imaginary problems       │
+│  08  Don&#x27;t optimize imaginary problems       │
 │  09  Automate repetitive work                │
 │  10  Ship things people can actually use     │
 └──────────────────────────────────────────────┘
-```
+</pre>
+</div>
 
 <h2 align="center">🧰 My Favorite Kind of Problem</h2>
 
@@ -637,18 +661,20 @@ $ build --idea "clip youtube fast"
 
 <p align="center">For example:</p>
 
-```text
-"Why are we making 10,000 requests?"
-
-"Why does this use 500 MB?"
-
-"Why are five workers doing the same thing?"
-
-"Why does this work until two users arrive?"
-
-"Why are we launching a browser for something
-that could be solved with one HTTP request?"
-```
+<div align="center">
+<pre>
+&quot;Why are we making 10,000 requests?&quot;         
+                                             
+&quot;Why does this use 500 MB?&quot;                  
+                                             
+&quot;Why are five workers doing the same thing?&quot; 
+                                             
+&quot;Why does this work until two users arrive?&quot; 
+                                             
+&quot;Why are we launching a browser for something
+that could be solved with one HTTP request?&quot; 
+</pre>
+</div>
 
 <p align="center">Those are fun problems.</p>
 
@@ -672,25 +698,27 @@ flowchart TD
     H --> I["Ship"]
 ```
 
-```text
-Human idea
-    ↓
+<div align="center">
+<pre>
+Human idea             
+    ↓                  
 AI-assisted exploration
-    ↓
-Prototype
-    ↓
-Read the code
-    ↓
-Break the code
-    ↓
-Understand the code
-    ↓
-Fix the architecture
-    ↓
-Test
-    ↓
-Ship
-```
+    ↓                  
+Prototype              
+    ↓                  
+Read the code          
+    ↓                  
+Break the code         
+    ↓                  
+Understand the code    
+    ↓                  
+Fix the architecture   
+    ↓                  
+Test                   
+    ↓                  
+Ship                   
+</pre>
+</div>
 
 <p align="center">The goal isn't to generate more code. The goal is to <strong>build better software faster</strong> — while still knowing how every important piece works, why it's shaped that way, and what happens when it fails.</p>
 
@@ -788,12 +816,14 @@ Ship
 
 </div>
 
-```text
-AI / LLMs · Cloud Infrastructure · Backend Architecture
-Performance Engineering · Automation · Distributed Systems
-Linux Internals · Developer Tooling · React Ecosystem
+<div align="center">
+<pre>
+AI / LLMs · Cloud Infrastructure · Backend Architecture          
+Performance Engineering · Automation · Distributed Systems       
+Linux Internals · Developer Tooling · React Ecosystem            
 Container Orchestration · Observability · Security Best Practices
-```
+</pre>
+</div>
 
 ---
 
@@ -803,14 +833,16 @@ Container Orchestration · Observability · Security Best Practices
 
 <p align="center">There will be:</p>
 
-```text
-more projects
-more bugs
-more experiments
-more optimizations
-more terrible ideas
+<div align="center">
+<pre>
+more projects               
+more bugs                   
+more experiments            
+more optimizations          
+more terrible ideas         
 more surprisingly good ideas
-```
+</pre>
+</div>
 
 <p align="center">And hopefully, a lot more things worth showing here.</p>
 
