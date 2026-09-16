@@ -87,7 +87,6 @@
 
 </div>
 
-```text
 ┌───────────────────────────────────────────────────┐
 │                    HOW I BUILD                    │
 ├───────────────────────────────────────────────────┤
@@ -107,7 +106,6 @@
 │   ship it                                         │
 │                                                   │
 └───────────────────────────────────────────────────┘
-```
 
 <p align="center"><em>I don't particularly care about writing the <strong>most</strong> code. I'd rather write less code that does less unnecessary work.</em></p>
 
