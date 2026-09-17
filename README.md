@@ -544,6 +544,7 @@ fewer failure points
 <h3 align="center">🌐 Network</h3>
 
 <div align="center">
+<pre>
 Can I avoid the request?         
         ↓                        
 Can I cache the result?          
@@ -553,6 +554,7 @@ Can requests share the same work?
 Can concurrency be bounded?      
         ↓                        
 Can failure be graceful?         
+</pre>
 </div>
 
 <h3 align="center">💾 Memory</h3>
@@ -646,7 +648,7 @@ $ build --idea &quot;clip youtube fast&quot;
 │  05  Prefer simple systems                   │
 │  06  Test the weird cases                    │
 │  07  Understand the bottleneck               │
-│  08  Don&#x27;t optimize imaginary problems       │
+│  08  Don&#x27;t optimize imaginary problems  │
 │  09  Automate repetitive work                │
 │  10  Ship things people can actually use     │
 └──────────────────────────────────────────────┘
