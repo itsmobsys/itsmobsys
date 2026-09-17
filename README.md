@@ -93,19 +93,19 @@
 │                    HOW I BUILD                    │
 ├───────────────────────────────────────────────────┤
 │                                                   │
-│   idea                                            │
-│    ↓                                              │
-│   prototype                                       │
-│    ↓                                              │
-│   break it                                        │
-│    ↓                                              │
-│   understand why                                  │
-│    ↓                                              │
-│   optimize                                        │
-│    ↓                                              │
-│   test it                                         │
-│    ↓                                              │
-│   ship it                                         │
+│                       idea                        │
+│                        ↓                          │
+│                    prototype                      │
+│                        ↓                          │
+│                     break it                      │
+│                        ↓                          │
+│                   understand why                  │
+│                        ↓                          │
+│                     optimize                      │
+│                        ↓                          │
+│                     test it                       │
+│                        ↓                          │
+│                     ship it                       │
 │                                                   │
 └───────────────────────────────────────────────────┘
 </pre>
