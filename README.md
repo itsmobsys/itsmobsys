@@ -544,7 +544,6 @@ fewer failure points
 <h3 align="center">🌐 Network</h3>
 
 <div align="center">
-<pre>
 Can I avoid the request?         
         ↓                        
 Can I cache the result?          
@@ -554,7 +553,6 @@ Can requests share the same work?
 Can concurrency be bounded?      
         ↓                        
 Can failure be graceful?         
-</pre>
 </div>
 
 <h3 align="center">💾 Memory</h3>
