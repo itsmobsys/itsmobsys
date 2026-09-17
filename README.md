@@ -17,7 +17,7 @@
 
   <h1>⚡ HEY, I'M DEV</h1>
 
-  <h3><code>@itsmobsys</code></h3>
+  <h3><code>@itsmobsys / @boink_2068</code></h3>
 
   <p><strong>I build things because I want to know how they work.</strong></p>
 
